@@ -1,7 +1,7 @@
 <h1>Alugames</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura. A idéia é simular um site onde é possível alugar ou devolver um jogo.</p>
 
 ## 🚀 Tecnologias
 <div>
