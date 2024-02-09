@@ -3,6 +3,8 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido durante o curso de Javascript da alura. A idéia é simular um site onde é possível alugar ou devolver um jogo.</p>
 
+[Acessar a página]( https://brunomartins.github.io/alugames/)
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
